@@ -9,9 +9,9 @@ var requirejs = require('requirejs');
 var program = require('commander');
 
 //path
-var wamp_root = 'C:/wamp/www/prop';
-var apache_root = 'D:/Develop/xampp/htdocs/prop';
-var xampp_root = '/opt/lampp/htdocs/prop';
+var wamp_root = 'C:/wamp/www/wx';
+var apache_root = 'D:/Develop/xampp/htdocs/wx';
+var xampp_root = '/opt/lampp/htdocs/wx';
 var tomcat_root = './dist/www';
 
 var src_root = './www', des_root = './dist/www';
@@ -143,17 +143,7 @@ var tasks = {
 			.pipe(gulp.dest(des_dir_js));
 	},
 	copy: function(debug) {
-		if(!!debug){
-			gulp.src(src_file_index).pipe(pathmap('www/index.html')).pipe(gulp.dest(des_root));
-		}else {
-			gulp.src(src_file_index_product).pipe(pathmap('www/index.html')).pipe(gulp.dest(des_root));
-		}
-		gulp.src(src_dir_img + '/**/*.*').pipe(gulp.dest(des_dir_img));
-		gulp.src(src_dir_data + '/**/*.*').pipe(gulp.dest(des_dir_data));
-		gulp.src(src_dir_php + '/**/*.*').pipe(gulp.dest(des_dir_php));
-		gulp.src(src_dir_partials + '/**/*.*').pipe(gulp.dest(des_dir_partials));
-		gulp.src(src_dir_css + '/**/*.*').pipe(gulp.dest(des_dir_css));
-		gulp.src(src_dir_fonts + '/**/*.*').pipe(gulp.dest(des_dir_fonts));
+		gulp.src(src_root + '/**/*.*').pipe(gulp.dest(des_root));
 	},
 	optimize: function(cb) {
 		requirejs.optimize(requirejs_config);
