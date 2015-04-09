@@ -9,13 +9,13 @@ card {
 }
 
 card.rotateUp{
-  -webkit-animation: rotateUp 1s;
+  -webkit-animation: rotateUp 0.5s;
   background: blue; -webkit-transform: rotateY(180deg);
 }
 
 card.rotateDown{
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ff4f02), color-stop(1, #8f2c00)); -webkit-transform: rotateY(0deg);
-  -webkit-animation: rotateDown 1s;
+  -webkit-animation: rotateDown 0.5s;
 }
 
 @-webkit-keyframes rotateUp{
