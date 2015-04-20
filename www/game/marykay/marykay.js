@@ -68,4 +68,11 @@
 	for (var i = 1; i <= 16; i++) {
 		cardMgr.addCard(new Card(i));
 	}
+
+	// 点击游戏说明
+	$('.game-intro').ready(function(){
+		$(this).click(function(){
+			$('.game-info').show();
+		});
+	});
 })();
