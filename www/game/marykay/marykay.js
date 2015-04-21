@@ -77,4 +77,11 @@
 			window.location.href = 'step2.php';
 		}
 	};
+
+	// 点击游戏说明
+	$('.game-intro').ready(function(){
+		$(this).click(function(){
+			$('.game-info').show();
+		});
+	});
 })(window);

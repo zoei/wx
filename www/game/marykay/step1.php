@@ -28,6 +28,13 @@
     <div class="row">
       	<button type="button" class="btn btn-start btn-default center-block" onclick="GameControl.enterGame();">进入游戏</button>
     </div>
+  	<div class="game-info">
+  		<span>游戏说明</span>
+		<div style="width: 210px;height: auto;font-size: 12px;">
+	  		<p>“玫琳凯翻翻乐”是一款记忆类互动小游戏3秒时间牢记16个“MaryKay元素”所在位置，凭记忆将相同元素两两配对，在限定时间内配对所有的“MaryKay元素”就能过关。</p>
+	  		<p>考验记忆力的时刻来了，赶紧来挑战吧！</p>
+		</div>
+	</div>
   </div>
 </body>
 </html>

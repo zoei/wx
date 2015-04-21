@@ -18,6 +18,20 @@ body{
   background-size: contain;
 }
 
+.game-info {
+  position: absolute;
+  display: none;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: url(img/bg.png);
+  opacity: 0.9;
+  display: -webkit-box;
+  -webkit-box-align: center;
+  -webkit-box-pack: center;
+}
+
 .sign{
   background: url(img/sign.png) no-repeat;
   width: 320px;
