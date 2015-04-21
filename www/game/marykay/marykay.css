@@ -1,33 +1,70 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+}
+
+body{
+  background: url(img/bg.png) no-repeat;
+  background-size: 100%;
+}
+
+.game-intro{
+  margin-top: -40px;
+  margin-right: -23px;
+  width: 120px;
+  height: 120px;
+  background: url(img/game-intro.png) no-repeat;
+  background-size: contain;
+}
+
+.sign{
+  background: url(img/sign.png) no-repeat;
+  width: 320px;
+  height: 131px;
+  background-size: 100%;
+}
+
+.btn-start {
+  margin-top: 10px;
+  font-size: 22px;
+  color: white;
+  width: 110px;
+  height: 42px;
+  border: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffadbd), color-stop(50%, #f56993), color-stop(100%, #eb276c));
+}
+
 card {
   display: inline-block;
-  width: 50px;
-  height: 50px;
+  width: 80px;
+  height: 80px;
   border-radius: 5px;
-  background-image: -moz-linear-gradient(top, #8fa1ff, #3757fa); /* Firefox */
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ff4f02), color-stop(1, #8f2c00)); /* Saf4+, Chrome */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c6ff00', endColorstr='#538300', GradientType='0'); /* IE*/
+  background: url(img/card-bg.png) no-repeat;
+  background-size: contain;
 }
 
 card.rotateUp{
-  -webkit-animation: rotateUp 0.5s;
-  background: blue; -webkit-transform: rotateY(180deg);
+  -webkit-animation: rotateUp 2s;
+  background: white; -webkit-transform: rotateY(180deg);
 }
 
 card.rotateDown{
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ff4f02), color-stop(1, #8f2c00)); -webkit-transform: rotateY(0deg);
-  -webkit-animation: rotateDown 0.5s;
+  -webkit-animation: rotateDown 2s;
+  background: url(img/card-bg.png) no-repeat;
+  background-size: contain; 
 }
 
 @-webkit-keyframes rotateUp{
-  0%   {background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ff4f02), color-stop(1, #8f2c00)); -webkit-transform: rotateY(0deg);}
-  50%  {background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ff4f02), color-stop(1, #8f2c00)); -webkit-transform: rotateY(90deg);}
-  51%  {background: blue; -webkit-transform: rotateY(91deg);}
-  100% {background: blue; -webkit-transform: rotateY(180deg);}
+  0%   {background: url(img/card-bg.png) no-repeat; background-size: contain; -webkit-transform: rotateY(0deg);}
+  50%  {background: url(img/card-bg.png) no-repeat; background-size: contain; -webkit-transform: rotateY(90deg);}
+  51%  {background: white; -webkit-transform: rotateY(91deg);}
+  100% {background: white; -webkit-transform: rotateY(180deg);}
 }
 
 @-webkit-keyframes rotateDown{
-  0% {background: blue; -webkit-transform: rotateY(180deg);}
-  50%  {background: blue; -webkit-transform: rotateY(91deg);}
-  51%  {background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ff4f02), color-stop(1, #8f2c00)); -webkit-transform: rotateY(90deg);}
-  100%   {background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ff4f02), color-stop(1, #8f2c00)); -webkit-transform: rotateY(0deg);}
+  0%   {background: white; -webkit-transform: rotateY(180deg);}
+  50%  {background: white; -webkit-transform: rotateY(270deg);}
+  51%  {background: url(img/card-bg.png) no-repeat; background-size: contain; -webkit-transform: rotateY(271deg);}
+  100% {background: url(img/card-bg.png) no-repeat; background-size: contain; -webkit-transform: rotateY(360deg);}
 }

@@ -136,3 +136,142 @@ sgdhdh
 <Event><![CDATA[CLICK]]></Event>
 <EventKey><![CDATA[V1001_GOOD]]></EventKey>
 </xml>
+1428503340: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1428503344</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[V1001_TODAY_MUSIC]]></EventKey>
+</xml>
+1428504019: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1428504022</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>31.198400</Latitude>
+<Longitude>121.506401</Longitude>
+<Precision>30.000000</Precision>
+</xml>
+1428504028: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1428504032</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>31.198454</Latitude>
+<Longitude>121.506340</Longitude>
+<Precision>30.000000</Precision>
+</xml>
+1428504031: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1428504035</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>31.198454</Latitude>
+<Longitude>121.506340</Longitude>
+<Precision>30.000000</Precision>
+</xml>
+1428504039: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1428504042</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[location_select]]></Event>
+<EventKey><![CDATA[rselfmenu_2_0]]></EventKey>
+<SendLocationInfo><Location_X><![CDATA[31.197329]]></Location_X>
+<Location_Y><![CDATA[121.513166]]></Location_Y>
+<Scale><![CDATA[16]]></Scale>
+<Label><![CDATA[浦东新区浦三路]]></Label>
+<Poiname><![CDATA[]]></Poiname>
+</SendLocationInfo>
+</xml>
+1428504039: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1428504042</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>31.197329</Location_X>
+<Location_Y>121.513166</Location_Y>
+<Scale>16</Scale>
+<Label><![CDATA[浦东新区浦三路]]></Label>
+<MsgId>6135378142802513962</MsgId>
+</xml>
+1428504040: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1428504043</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>31.198454</Latitude>
+<Longitude>121.506348</Longitude>
+<Precision>30.000000</Precision>
+</xml>
+1428504062: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1428504066</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>31.198454</Latitude>
+<Longitude>121.506348</Longitude>
+<Precision>30.000000</Precision>
+</xml>
+1428504070: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1428504073</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>31.197929</Latitude>
+<Longitude>121.506508</Longitude>
+<Precision>30.000000</Precision>
+</xml>
+1428504074: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1428504077</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[pic_weixin]]></Event>
+<EventKey><![CDATA[rselfmenu_1_2]]></EventKey>
+<SendPicsInfo><Count>1</Count>
+<PicList><item><PicMd5Sum><![CDATA[336b7f4a566a51afc994bd9d5cb40c50]]></PicMd5Sum>
+</item>
+</PicList>
+</SendPicsInfo>
+</xml>
+1428504081: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1428504085</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>31.197929</Latitude>
+<Longitude>121.506508</Longitude>
+<Precision>30.000000</Precision>
+</xml>
+1428504082: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1428504085</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/zIMOapE1jC09xcAF7B3EIahiaFabia3ibhxNeWKibI2neGDbPnRNDCUkrsf3X896SLib1T9ia36S6ia5dFibHP2yb6gZjg/0]]></PicUrl>
+<MsgId>6135378327486107717</MsgId>
+<MediaId><![CDATA[w2yRO7BdkljvP1Pq-N3Yw86oWvqfdkxeTDmnW4q-mxTGqeRYxomkezxSdYD0ljRw]]></MediaId>
+</xml>
+1428504095: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1428504098</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>31.197123</Latitude>
+<Longitude>121.506882</Longitude>
+<Precision>30.000000</Precision>
+</xml>
+1428504098: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1428504099</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/zIMOapE1jC09xcAF7B3EIahiaFabia3ibhxsOJduIYiab2uf4icMRQX0RaMB2FDoJFABR7Z2gYCE5Ysic41aH0sglibHQ/0]]></PicUrl>
+<MsgId>6135378387615649871</MsgId>
+<MediaId><![CDATA[gAC6gimLAS7IqtmScZjOSLIk0AJ-a2Ilvu1hky7LGFkVpVhVgmeiybyYfY-Z77al]]></MediaId>
+</xml>
+1428504397: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1428504400</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>31.197802</Latitude>
+<Longitude>121.506523</Longitude>
+<Precision>30.000000</Precision>
+</xml>

@@ -2,6 +2,13 @@
 
 include_once "php/util/log.php";
 
+// class Logger {
+//     public static $FILE = 'log.txt';
+//     public static function log($content){
+//         return file_put_contents(self::$FILE, $content, FILE_APPEND);
+//     }
+// }
+
 /**
   * wechat php test
   */

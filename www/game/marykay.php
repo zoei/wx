@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>--</title>
+    <title>玫琳凯</title>
     <meta name="keywords" content="MARY KAY" />
     <meta name="description" content="MARY KAY"/>
     <meta name="Author" content="zoei">
@@ -17,32 +17,30 @@
     <script type="text/javascript" src="../lib/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="marykay/marykay.js"></script>
 </head>
-<body>
+<body class="bg-1">
   <div class="container">
-    <div class="row">
-      <div class="h1"><?php echo "<p>MARY KAY</p>"; ?></div>
-    </div>
-    <div class="row" style="text-align: center;">
+    <div class="game-intro"></div>
+    <div class="" style="text-align: center;">
       <div class="card-area">
-        <div class="row">
+        <div class="">
           <card id="card-1"></card>
           <card id="card-2"></card>
           <card id="card-3"></card>
           <card id="card-4"></card>
         </div>
-        <div class="row">
+        <div class="">
           <card id="card-5"></card>
           <card id="card-6"></card>
           <card id="card-7"></card>
           <card id="card-8"></card>
         </div>
-        <div class="row">
+        <div class="">
           <card id="card-9"></card>
           <card id="card-10"></card>
           <card id="card-11"></card>
           <card id="card-12"></card>
         </div>
-        <div class="row">
+        <div class="">
           <card id="card-13"></card>
           <card id="card-14"></card>
           <card id="card-15"></card>

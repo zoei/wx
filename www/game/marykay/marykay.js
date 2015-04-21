@@ -1,4 +1,4 @@
-(function() {
+(function(window) {
 
 	/** Card */
 	function Card(id) {
@@ -51,9 +51,9 @@
 				if(!this.turnedUpCard){
 					this.turnedUpCard = card;
 				} else if(this.turnedUpCard.value !== card.value){
-					var me = this;
+					var me = this, turnedUpCard = this.turnedUpCard;
 					setTimeout(function(){
-						me.turnedUpCard.turn();
+						turnedUpCard.turn();
 						card.turn();
 						me.turnedUpCard = null;
 					}, 1000);
@@ -61,6 +61,9 @@
 					this.turnedUpCard = null;
 				}
 			}
+		},
+		addMask: function(){
+			$('.card-area').appendCli('')
 		}
 	};
 
@@ -68,4 +71,10 @@
 	for (var i = 1; i <= 16; i++) {
 		cardMgr.addCard(new Card(i));
 	}
-})();
+
+	window.GameControl = {
+		enterGame: function(){
+			window.location.href = 'step2.php';
+		}
+	};
+})(window);
