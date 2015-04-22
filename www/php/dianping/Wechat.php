@@ -147,6 +147,13 @@
     protected function onLink() {}
 
     /**
+     * 收到语音消息时触发，用于子类重写
+     *
+     * @return void
+     */
+    protected function onVoice() {}
+
+    /**
      * 收到未知类型消息时触发，用于子类重写
      *
      * @return void
@@ -225,6 +232,10 @@
 
         case 'link':
           $this->onLink();
+          break;
+
+        case 'voice':
+          $this->onVoice();
           break;
 
         default:

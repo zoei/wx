@@ -7,6 +7,11 @@
 
   require('php/dianping/Wechat.php');
   require('php/dianping/api.php');
+  include_once "php/ai/tuling.php";
+  include_once "php/util/log.php";
+
+  $postStr = $GLOBALS["HTTP_RAW_POST_DATA"];
+  Logger::log(time().": =======================\r\n".$postStr."\r\n-------------------------\r\n");
 
   /**
    * 微信公众平台演示类
@@ -58,7 +63,7 @@
      * @return void
      */
     protected function onImage() {
-      $this->responseText('您成功发送了一张图片');
+      $this->responseText('已收到您发送的图片');
     }
 
     /**
@@ -81,7 +86,20 @@
      * @return void
      */
     protected function onLink() {
-      $this->responseText('您成功发送了一个链接');
+      $this->responseText('已收到您发送的链接');
+    }
+
+    /**
+     * 收到语音消息时触发，回复收到的链接地址
+     *
+     * @return void
+     */
+    protected function onVoice() {
+      $keyword = $this->getRequest('recognition');
+      $params = array('keyword' => $keyword );
+      $result = tuling($keyword);
+      Logger::log($result."\r\n");
+      $this->responseText($result);
     }
 
     /**

@@ -1,0 +1,363 @@
+1429688931: <xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429688934</CreateTime>
+<MsgType><![CDATA[voice]]></MsgType>
+<MediaId><![CDATA[g5WPiY1vM6gprODY2UMeK0QkwYV1tf2giK7ehaS3P15IMt1GtQnHJZ2DOWmvzrYV]]></MediaId>
+<Format><![CDATA[amr]]></Format>
+<MsgId>6140467214983102464</MsgId>
+<Recognition><![CDATA[拉面]]></Recognition>
+</xml>
+
+1429689058: =================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429689061</CreateTime>
+<MsgType><![CDATA[voice]]></MsgType>
+<MediaId><![CDATA[qyvP39sIM8BOscvp5rL5vA4vCkNSuBJaTbj6QT42octKqvKhSx1-tb2fwK6z5mwZ]]></MediaId>
+<Format><![CDATA[amr]]></Format>
+<MsgId>6140467760443949056</MsgId>
+<Recognition><![CDATA[拉面]]></Recognition>
+</xml>
+=================1429689199: <xml><ToUserName><![CDATA[gh_a8bd3f301637]]></ToUserName>
+<FromUserName><![CDATA[oj2sEszHVx2guXgmUJDI8dRikq8Q]]></FromUserName>
+<CreateTime>1429689202</CreateTime>
+<MsgType><![CDATA[voice]]></MsgType>
+<MediaId><![CDATA[JZoGbpNmtyHrKh9D9BOtXzDak1F6Al1XjZ4_oK0WZTThvaezeZRvYSRsZd3bDHVJ]]></MediaId>
+<Format><![CDATA[amr]]></Format>
+<MsgId>6140468366034337792</MsgId>
+<Recognition><![CDATA[拉面]]></Recognition>
+</xml>
+1429690096: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429690098</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[q]]></Content>
+<MsgId>6140472214530389498</MsgId>
+</xml>
+-------------------------
+1429690105: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429690107</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[拉面]]></Content>
+<MsgId>6140472253185095168</MsgId>
+</xml>
+-------------------------
+1429690108: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429690110</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[拉面]]></Content>
+<MsgId>6140472266069997060</MsgId>
+</xml>
+-------------------------
+1429690110: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429690113</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[拉面]]></Content>
+<MsgId>6140472278954898950</MsgId>
+</xml>
+-------------------------
+1429690124: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429690126</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[兰州拉面]]></Content>
+<MsgId>6140472334789473809</MsgId>
+</xml>
+-------------------------
+1429690130: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429690133</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[兰州拉面]]></Content>
+<MsgId>6140472364854244886</MsgId>
+</xml>
+-------------------------
+1429690132: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429690134</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[兰州拉面]]></Content>
+<MsgId>6140472369149212185</MsgId>
+</xml>
+-------------------------
+1429691765: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429691768</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[hi]]></Content>
+<MsgId>6140479387125774593</MsgId>
+</xml>
+-------------------------
+1429691769: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429691771</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[hi]]></Content>
+<MsgId>6140479400010676484</MsgId>
+</xml>
+-------------------------
+1429691771: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429691773</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[hi]]></Content>
+<MsgId>6140479408600611079</MsgId>
+</xml>
+-------------------------
+1429691772: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429691775</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[hi]]></Content>
+<MsgId>6140479417190545676</MsgId>
+</xml>
+-------------------------
+1429691779: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429691775</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[hi]]></Content>
+<MsgId>6140479417190545676</MsgId>
+</xml>
+-------------------------
+1429691784: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429691775</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[hi]]></Content>
+<MsgId>6140479417190545676</MsgId>
+</xml>
+-------------------------
+1429691843: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429691845</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6140479717838256426</MsgId>
+</xml>
+-------------------------
+1429691848: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429691850</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你是谁]]></Content>
+<MsgId>6140479739313092911</MsgId>
+</xml>
+-------------------------
+1429693694: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429693697</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6140487672117689470</MsgId>
+</xml>
+-------------------------
+1429693699: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429693701</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[航班]]></Content>
+<MsgId>6140487689297558657</MsgId>
+</xml>
+-------------------------
+1429693701: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429693704</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[航班]]></Content>
+<MsgId>6140487702182460551</MsgId>
+</xml>
+-------------------------
+1429693704: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429693707</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[航班]]></Content>
+<MsgId>6140487715067362445</MsgId>
+</xml>
+-------------------------
+1429693707: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429693710</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[航班]]></Content>
+<MsgId>6140487727952264336</MsgId>
+</xml>
+-------------------------
+1429693709: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429693712</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[航班]]></Content>
+<MsgId>6140487736542198931</MsgId>
+</xml>
+-------------------------
+1429693736: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429693738</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[航班]]></Content>
+<MsgId>6140487848211348641</MsgId>
+</xml>
+-------------------------
+1429693769: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429693771</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[航班]]></Content>
+<MsgId>6140487989945269420</MsgId>
+</xml>
+-------------------------
+1429693773: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429693776</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[叔]]></Content>
+<MsgId>6140488011420105905</MsgId>
+</xml>
+-------------------------
+1429693779: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429693781</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[航班]]></Content>
+<MsgId>6140488032894942389</MsgId>
+</xml>
+-------------------------
+1429693784: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429693781</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[航班]]></Content>
+<MsgId>6140488032894942389</MsgId>
+</xml>
+-------------------------
+1429694579: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429694582</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[北京到上海的航班]]></Content>
+<MsgId>6140491473163746796</MsgId>
+</xml>
+-------------------------
+1429694582: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429694584</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[北京到上海的航班]]></Content>
+<MsgId>6140491481753681391</MsgId>
+</xml>
+-------------------------
+
+1429694588: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429694584</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[北京到上海的航班]]></Content>
+<MsgId>6140491481753681391</MsgId>
+</xml>
+-------------------------
+{"code":100000,"text":"亲爱的，您准备哪天去上海？"}
+1429694611: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429694613</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[明天]]></Content>
+<MsgId>6140491606307732984</MsgId>
+</xml>
+-------------------------
+1429694619: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429694617</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[明天]]></Content>
+<MsgId>6140491623487602172</MsgId>
+</xml>
+-------------------------
+1429694622: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429694625</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[明天]]></Content>
+<MsgId>6140491657847340542</MsgId>
+</xml>
+-------------------------
+1429694627: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429694629</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[明天]]></Content>
+<MsgId>6140491675027209731</MsgId>
+</xml>
+-------------------------
+{"code":100000,"text":"我想我们应该会成为好朋友的"}
+1429694671: =======================
+
+-------------------------
+1429694683: =======================
+<xml><URL><![CDATA[http://happymuslim.net/wx/server.php]]></URL><ToUserName><![CDATA[zoeile]]></ToUserName><FromUserName><![CDATA[himuslim]]></FromUserName><CreateTime>1429694302319</CreateTime><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[你好]]></Content><MsgId>312414124142</MsgId></xml>
+-------------------------
+1429694709: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429694711</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查一下明天从北京到上海的南航机票]]></Content>
+<MsgId>6140492027214528041</MsgId>
+</xml>
+-------------------------
+1429694711: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429694714</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查一下明天从北京到上海的南航机票]]></Content>
+<MsgId>6140492040099429932</MsgId>
+</xml>
+-------------------------
+1429694720: =======================
+<xml><ToUserName><![CDATA[gh_697a0e8523df]]></ToUserName>
+<FromUserName><![CDATA[oWpkFt2wDXbiLbsdJRVQM24YY7do]]></FromUserName>
+<CreateTime>1429694715</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查一下明天从北京到上海的南航机票]]></Content>
+<MsgId>6140492044394397230</MsgId>
+</xml>
+-------------------------
+{"code":306000,"text":"亲，已帮您找到航班信息","list":[{"flight":"MU3809 东方航空 共享","starttime":"09:15","endtime":"11:15","icon":"http://unidust.cn/images/api-flight.jpg"},{"flight":"MU3811 东方航空 共享","starttime":"21:30","endtime":"23:30","icon":"http://unidust.cn/images/api-flight.jpg"},{"flight":"CA3202 中国国航 共享","starttime":"06:50","endtime":"09:05","icon":"http://unidust.cn/images/api-flight.jpg"},{"flight":"MU3926 东方航空 共享","starttime":"06:50","endtime":"09:05","icon":"http://unidust.cn/images/api-flight.jpg"},{"flight":"MU3491 东方航空 共享","starttime":"08:20","endtime":"10:45","icon":"http://unidust.cn/images/api-flight.jpg"},{"flight":"MU5138 东方航空","starttime":"07:00","endtime":"09:10","icon":"http://unidust.cn/images/api-flight.jpg"},{"flight":"MU5160 东方航空","starttime":"22:00","endtime":"23:55","icon":"http://unidust.cn/images/api-flight.jpg"},{"flight":"MU5158 东方航空","starttime":"21:30","endtime":"23:40","icon":"http://unidust.cn/images/api-flight.jpg"},{"flight":"MU5156 东方航空","starttime":"18:30","endtime":"20:45","icon":"http://unidust.cn/images/api-flight.jpg"},{"flight":"MU5154 东方航空","starttime":"13:35","endtime":"15:45","icon":"http://unidust.cn/images/api-flight.jpg"},{"flight":"MU5152 东方航空","starttime":"11:30","endtime":"13:40","icon":"http://unidust.cn/images/api-flight.jpg"},{"flight":"MU9106 东方航空 共享","starttime":"20:30","endtime":"22:35","icon":"http://unidust.cn/images/api-flight.jpg"},{"flight":"MU5128 东方航空","starttime":"21:00","endtime":"23:15","icon":"http://unidust.cn/images/api-flight.jpg"},{"flight":"MU5126 东方航空","starttime":"20:00","endtime":"22:10","icon":"http://unidust.cn/images/api-flight.jpg"},{"flight":"MU5112 东方航空","starttime":"13:00","endtime":"15:10","icon":"http://unidust.cn/images/api-flight.jpg"}]}
