@@ -54,6 +54,7 @@
       $params = array('keyword' => $keyword );
       $tool = $this->apiTool;
       $resultData = $tool->requestApi($params);
+      Logger::log('reply: <------ '.$resultData." -------->\r\n");
       $this->sendResponse($resultData);
     }
 
@@ -96,10 +97,17 @@
      */
     protected function onVoice() {
       $keyword = $this->getRequest('recognition');
+      
+      // $params = array('keyword' => $keyword );
+      // $result = tuling($keyword);
+      // Logger::log('reply: <------ '.$result." -------->\r\n");
+      // $this->responseText($result ? $result : ' ');
+
       $params = array('keyword' => $keyword );
-      $result = tuling($keyword);
-      Logger::log($result."\r\n");
-      $this->responseText($result);
+      $tool = $this->apiTool;
+      $resultData = $tool->requestApi($params);
+      Logger::log('reply: <------ '.$resultData." -------->\r\n");
+      $this->sendResponse($resultData);
     }
 
     /**
@@ -120,7 +128,7 @@
        $status = $resultData['status'];
         if("OK" == $status){
         $items = array();
-        array_push($items,new NewsResponseItem('以下是为你搜索的信息' , '以下是为你搜索的信息' , "http://dp-openapi-weixin.cfapps.io/logo-weixin.png", "http://happymuslim.net/wx/php/jssdk/sdktest.php"));
+        array_push($items,new NewsResponseItem('以下数据由大众点评提供' , '以下数据由大众点评提供' , "http://j1.s2.dpfile.com/s/i/app/api/images/dp-logo.0905884f1e06baa7ac6fc7770c319f32.png", "http://happymuslim.net/wx/php/jssdk/sdktest.php"));
        
         $count = $resultData['count'];
         $deals = $resultData['deals'];
@@ -149,3 +157,4 @@
   $wechat = new MyWechat('happymuslim', TRUE);
   $wechat->setApiTool('http://api.dianping.com/v1/deal/find_deals', '86484869', '0c7c60d99eca4f7a9c02b1dcec69367c', array('format'=>'json','city'=>'上海','limit'=>'5','is_local'=>'1'));
   $wechat->run();
+?>

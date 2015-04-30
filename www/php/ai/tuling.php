@@ -1,5 +1,7 @@
 <?php
 
+    include_once "php/util/log.php";
+
     function tuling($keyword){
         $apiKey = "dad8d3c02f6ca39257da3c89417b74e2"; 
         $apiURL = "http://www.tuling123.com/openapi/api?key=KEY&info=INFO";
@@ -11,7 +13,7 @@
 
         if(req_method == 1){
             /** 方法一、用file_get_contents 以get方式获取内容 */ 
-            $res =file_get_contents($url); 
+            $res = file_get_contents($url); 
             return $res; 
         } else {
             /** 方法二、使用curl库，需要查看php.ini是否已经打开了curl扩展 */ 
