@@ -17,7 +17,6 @@ include_once "php/util/log.php";
 define("TOKEN", "happymuslim");
 $wechatObj = new wechatCallbackapiTest();
 $wechatObj->responseMsg();
-
 class wechatCallbackapiTest
 {
 	public function valid()
