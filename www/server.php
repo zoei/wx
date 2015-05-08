@@ -5,8 +5,8 @@
  * @author 
  */
 
-  require('php/dianping/Wechat.php');
-  require('php/dianping/api.php');
+  require('php/lib/Wechat.php');
+  require('php/lib/dp-api.php');
   include_once "php/ai/tuling.php";
   include_once "php/util/log.php";
 
